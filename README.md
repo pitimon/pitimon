@@ -1,7 +1,7 @@
 ### Hi there I'm private employees (xOps club) 👋
 ### [https://www.w3profile.com/ipv9](https://www.w3profile.com/ipv9)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17430%26project%3D%26in%3D0)](https://codetime.dev)
-
+[![wakatime](https://wakatime.com/badge/user/93c09194-267c-43cf-8795-a242f4e9d23c/project/018e4e7b-ff95-4a6a-9d7c-b4f47630d78e.svg)](https://wakatime.com/badge/user/93c09194-267c-43cf-8795-a242f4e9d23c/project/018e4e7b-ff95-4a6a-9d7c-b4f47630d78e)
 
 ### Socials
 
